@@ -1,0 +1,22 @@
+# Arquivos de build
+build/
+cmake-build-*/
+
+# Arquivos do CLion
+.idea/
+
+# Arquivos de objeto e executáveis
+*.o
+*.out
+*.exe
+
+# Arquivos de highscores
+highscores.txt
+
+# Arquivos temporários
+*~
+*.swp
+*.swo
+
+# Arquivos do macOS
+.DS_Store
