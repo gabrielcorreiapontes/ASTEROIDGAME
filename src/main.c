@@ -282,7 +282,7 @@ void inicializarJogo() {
 void gerarAsteroid() {
     int x = MINX + 1 + rand() % (MAXX - MINX - ASTEROID_TAMANHO - 1);
     int y = MINY + 1;
-    int velocidade = 1;
+    int velocidade = 1 + (nivel / 2);
     Asteroid* asteroid = criarAsteroid(x, y, velocidade);
     adicionarAsteroid(&listaAsteroids, asteroid);
 }
@@ -291,7 +291,9 @@ void atualizarJogo() {
     screenClear();
     desenharBordas();
     spawnTimer++;
-    if (spawnTimer >= ASTEROID_SPAWN_RATE) {
+    int spawnAtual = ASTEROID_SPAWN_RATE - (nivel * 2);
+    if (spawnAtual < 5) spawnAtual = 5;
+    if (spawnTimer >= spawnAtual) {
         gerarAsteroid();
         spawnTimer = 0;
     }
