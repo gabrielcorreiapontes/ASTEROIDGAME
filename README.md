@@ -53,12 +53,12 @@ O objetivo é controlar uma nave espacial (A) e destruir asteroides (*) que caem
 ### Compilação e Execução
 
 # Clone o repositório
-git clone https://github.com/Luiiiks/AsteroidsGamePIF.git
-cd AsteroidsGamePIF
+- git clone https://github.com/Luiiiks/AsteroidsGamePIF.git
+- cd AsteroidsGamePIF
 
 # Compile o projeto
-make clean
-make
+- make clean
+- make
 
 # Execute o jogo
-make run
+- make run
