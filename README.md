@@ -62,3 +62,7 @@ O objetivo é controlar uma nave espacial (A) e destruir asteroides (*) que caem
 
 # Execute o jogo
 - make run
+
+# ScreenCast do Jogo
+
+[ScreenCast GoogleDrive](https://drive.google.com/file/d/1iaggQmgk8Pck7_RbknjzOFmD-m2WMyif/view?usp=sharing)
