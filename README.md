@@ -5,7 +5,7 @@
 | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: 
 | [Victor Uen](https://github.com/victor-uen) | [Luiz Flavius](https://github.com/Luiiizks) | [Gabriel Pontes](https://github.com/gabrielcorreiapontes)                                                                                                            
 ## 📖 Sobre o projeto
-Jogo Asteroids desenvolvido na linguagem C utilizando a biblioteca CLI-LIB, com funcionalidades completas incluindo sistema de high scores, múltiplos níveis e interface gráfica em terminal. Projeto desenvolvido para a disciplina de Programação Imperativa e Funcional do CESAR School.
+Jogo Asteroids desenvolvido na linguagem C utilizando a biblioteca CLI-LIB, jogo completo incluindo sistema de high scores, múltiplos níveis e interface gráfica em terminal. Projeto desenvolvido para a disciplina de Programação Imperativa e Funcional do CESAR School.
 
 ## 🎯 Objetivo do Jogo
 O objetivo é controlar uma nave espacial (A) e destruir asteroides (*) que caem do topo da tela. O jogador deve sobreviver o máximo de tempo possível, acumulando pontos e avançando de nível. O jogo termina quando todas as vidas são perdidas.
