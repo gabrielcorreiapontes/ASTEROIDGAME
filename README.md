@@ -11,10 +11,10 @@ Jogo Asteroids desenvolvido na linguagem C utilizando a biblioteca CLI-LIB, com 
 O objetivo é controlar uma nave espacial (A) e destruir asteroides (*) que caem do topo da tela. O jogador deve sobreviver o máximo de tempo possível, acumulando pontos e avançando de nível. O jogo termina quando todas as vidas são perdidas.
 
 ## 🎮 Controles
-- **A : Move a nave para a esquerda
-- **D : Move a nave para a direita  
+- **A** : Move a nave para a esquerda
+- **D** : Move a nave para a direita  
 - **Espaço**: Atira
-- **W/S : Navega no menu
+- **W/S** : Navega no menu
 - **Enter**: Confirma seleção
 - **ESC**: Volta ao menu / Sai do jogo
 
