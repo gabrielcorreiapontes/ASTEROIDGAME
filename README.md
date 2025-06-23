@@ -4,11 +4,7 @@
 | <img src="https://github.com/victor-uen.png" alt="Imagem de perfil do victor-uen" style="border-radius: 50%; border: 1px solid #000; width: 100px; height: 100px;"> | <img src="https://github.com/Luiiizks.png" alt="Imagem de perfil do Luiiizks" width="100" height="100"> | <img src="https://github.com/gabrielcorreiapontes" alt="Imagem de perfil do gabrielcorreiapontes" width="100" height="100"> 
 | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: 
 
-[Victor Uen](https://github.com/victor-uen) 
-
-[Luiz Flavius](https://github.com/Luiiizks)
-
-[Gabriel Pontes](https://github.com/gabrielcorreiapontes)                                                                                                            
+[Victor Uen](https://github.com/victor-uen) | [Luiz Flavius](https://github.com/Luiiizks) | [Gabriel Pontes](https://github.com/gabrielcorreiapontes)                                                                                                            
 
 ## 📖 Sobre o projeto
 Jogo Asteroids desenvolvido na linguagem C utilizando a biblioteca CLI-LIB, jogo completo incluindo sistema de high scores, múltiplos níveis e interface gráfica em terminal. Projeto desenvolvido para a disciplina de Programação Imperativa e Funcional do CESAR School.
